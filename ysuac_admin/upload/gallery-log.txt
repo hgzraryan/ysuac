@@ -1,0 +1,968 @@
+﻿=== 2013-04-04 10:53:47 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => n2013_04_03_01.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php4210.tmp
+            [error] => 0
+            [size] => 209861
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 11:01:50 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => n2013_04_03_01.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpA0F7.tmp
+            [error] => 0
+            [size] => 209861
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 11:03:34 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => n2013_04_03_01.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php36B1.tmp
+            [error] => 0
+            [size] => 209861
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 11:17:14 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => n2013_04_03_01.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpBA49.tmp
+            [error] => 0
+            [size] => 209861
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 11:18:47 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => n2013_04_03_01.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php27CE.tmp
+            [error] => 0
+            [size] => 209861
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 11:21:42 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => n2013_04_03_01.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpD3F8.tmp
+            [error] => 0
+            [size] => 209861
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 11:22:06 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => n2013_04_03_01.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php2FED.tmp
+            [error] => 0
+            [size] => 209861
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 12:01:38 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Chrysanthemum.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php61C9.tmp
+            [error] => 0
+            [size] => 879394
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 12:01:53 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Koala.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php9D44.tmp
+            [error] => 0
+            [size] => 780831
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 12:02:35 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Jellyfish.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php40C4.tmp
+            [error] => 0
+            [size] => 775702
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 12:03:00 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Koala.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php9FC5.tmp
+            [error] => 0
+            [size] => 780831
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 12:03:17 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Jellyfish.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpE32C.tmp
+            [error] => 0
+            [size] => 775702
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 12:03:40 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Hydrangeas.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php3DBB.tmp
+            [error] => 0
+            [size] => 595284
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 12:03:51 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Hydrangeas.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php676A.tmp
+            [error] => 0
+            [size] => 595284
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 12:09:52 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Lighthouse.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpED0E.tmp
+            [error] => 0
+            [size] => 561276
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 12:11:15 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Lighthouse.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php319D.tmp
+            [error] => 0
+            [size] => 561276
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 12:16:23 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Koala.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpE1EA.tmp
+            [error] => 0
+            [size] => 780831
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 12:16:43 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Koala.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php2F8D.tmp
+            [error] => 0
+            [size] => 780831
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 12:17:14 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Jellyfish.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpAA58.tmp
+            [error] => 0
+            [size] => 775702
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 12:47:58 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Jellyfish.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpCDBF.tmp
+            [error] => 0
+            [size] => 775702
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-04 12:48:03 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Chrysanthemum.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpE17E.tmp
+            [error] => 0
+            [size] => 879394
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-09 17:33:10 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => n2013_04_09_1.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpE574.tmp
+            [error] => 0
+            [size] => 132968
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-13 15:43:59 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => n2011_10_17_03.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php692B.tmp
+            [error] => 0
+            [size] => 257142
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-13 17:37:30 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => p005.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php5500.tmp
+            [error] => 0
+            [size] => 8991
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-13 17:41:20 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => p003.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpD754.tmp
+            [error] => 0
+            [size] => 26791
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-13 18:51:45 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => p0001.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php5096.tmp
+            [error] => 0
+            [size] => 39453
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-13 18:53:38 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => p0001.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpA93.tmp
+            [error] => 0
+            [size] => 44844
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-13 18:54:51 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => p0001.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php2564.tmp
+            [error] => 0
+            [size] => 28266
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-14 02:47:57 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => p0003.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php4A1D.tmp
+            [error] => 0
+            [size] => 33826
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-14 02:50:55 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => n2010_11_17_01.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpFF39.tmp
+            [error] => 0
+            [size] => 25201
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-15 00:41:45 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => 2011_12_06_02.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpC0AF.tmp
+            [error] => 0
+            [size] => 190431
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-15 12:47:31 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Armenia-Flag.png
+            [type] => image/png
+            [tmp_name] => C:\Windows\Temp\php38AC.tmp
+            [error] => 0
+            [size] => 10695
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-15 12:47:41 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => flag-armenia-XL.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php5C72.tmp
+            [error] => 0
+            [size] => 165205
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-15 12:47:50 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => flag-russia-XL.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php8038.tmp
+            [error] => 0
+            [size] => 172182
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-15 12:48:15 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Armenia-Flag.png
+            [type] => image/png
+            [tmp_name] => C:\Windows\Temp\phpE320.tmp
+            [error] => 0
+            [size] => 10695
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-15 12:48:24 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => SEUA_logo.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php570.tmp
+            [error] => 0
+            [size] => 808868
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-15 12:51:47 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => SEUA_logo.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php1EDA.tmp
+            [error] => 0
+            [size] => 808868
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-15 14:42:57 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => 2011_12_06_01.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpE4BD.tmp
+            [error] => 0
+            [size] => 622788
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-15 17:44:34 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => 2011_12_06_02.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\php2B04.tmp
+            [error] => 0
+            [size] => 190431
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-15 17:47:23 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => 2011_12_06_07.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpBF0A.tmp
+            [error] => 0
+            [size] => 337517
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-16 15:51:33 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => 2011_12_06_06.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpE29.tmp
+            [error] => 0
+            [size] => 122542
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-16 17:32:52 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => n2011_10_17_01.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpZFmXQk
+            [error] => 0
+            [size] => 239586
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-17 12:23:30 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => n2011_12_06_1.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpF0A8.tmp
+            [error] => 0
+            [size] => 151418
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+
+=== 2013-04-17 12:39:35 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => p0001.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Windows\Temp\phpAA8B.tmp
+            [error] => 0
+            [size] => 29503
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload/upload_gallery.php
+    [width] => 220
+    [height] => 220
+    [crop] => true
+)
+

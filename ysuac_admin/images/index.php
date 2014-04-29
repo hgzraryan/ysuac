@@ -1,0 +1,1 @@
+<?phpsession_start();$_SESSION[go]="error";session_write_close();header("location:../");exit();?>
